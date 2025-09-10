@@ -23,3 +23,15 @@ body {
   gap: 0.1rem;
 }
 
+.list {
+  list-style: none;
+}
+
+#add-btn {
+  cursor: pointer;
+  width: 20%;
+  border-radius: 12px;
+  align-self: center;
+  background-color: red;
+  color: white;
+}
